@@ -2,3 +2,28 @@
 {
     color:navy;
 }
+
+.slider .slides li .caption
+{
+    top:40%;
+}
+
+.espacamentoSuperior
+{
+    margin-top: 05vh;
+}
+
+.btn, .btn-large
+{
+background-color:red
+}
+
+.equipe
+{
+    padding-bottom: 25px; 
+}
+
+.card .card-image .card-title
+{
+    color: red;
+}
